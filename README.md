@@ -1,2 +1,2 @@
 # XMLD
-Repositório para calculo de dicroismo
+Repositório para cálculo de dicroísmo
